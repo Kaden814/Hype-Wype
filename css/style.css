@@ -790,3 +790,8 @@ Parallax
 	}
 	
 }
+
+/** CUstom classes **/
+.largeFont {
+    font-size: large;
+}
